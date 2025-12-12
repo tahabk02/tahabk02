@@ -14,13 +14,13 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahabk02)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tahabk02)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tahabk02)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahaboulhak202@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tahabk02.github.io)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=tahabk02&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -68,12 +68,12 @@ class Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61dafb&text_color=c9d1d9&ring_color=a277ff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=a277ff&fire=61dafb&currStreakLabel=a277ff" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahabk02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61dafb&text_color=c9d1d9&ring_color=a277ff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tahabk02&theme=tokyonight&hide_border=true&background=0d1117&ring=a277ff&fire=61dafb&currStreakLabel=a277ff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=📈%20Contribution%20Graph&bg_color=0d1117&color=a277ff&line=61dafb&point=c9d1d9&area_color=61dafb&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahabk02&custom_title=📈%20Contribution%20Graph&bg_color=0d1117&color=a277ff&line=61dafb&point=c9d1d9&area_color=61dafb&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -137,7 +137,7 @@ class Developer {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tahabk02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -145,12 +145,12 @@ class Developer {
 ## 📈 Coding Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahabk02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahabk02&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" alt="Profile Details" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahabk02&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -158,11 +158,11 @@ class Developer {
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61dafb" alt="Project 1" />
+  <a href="https://github.com/tahabk02/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tahabk02&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61dafb" alt="Project 1" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61dafb" alt="Project 2" />
+  <a href="https://github.com/tahabk02/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tahabk02&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61dafb" alt="Project 2" />
   </a>
 </div>
 
@@ -203,8 +203,8 @@ class Developer {
 ### ☕ Support My Work
 If you find my projects useful, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tahabk02)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tahabk02)
 
 </div>
 
