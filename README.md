@@ -89,20 +89,3 @@ My goal is to become a top developer and build impactful digital products.
 
 ---
 
-<!-- Footer Capsule -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=footer&theme=cobalt" />
-</div>
-# 1. إضافة مستوى المهارة:
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Advanced-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Intermediate-green?style=for-the-badge)
-
-# 2. إضافة تقييمات:
-⭐ **مهارات القيادة:** ⬛⬛⬛⬛⬜ (80%)
-⭐ **العمل الجماعي:** ⬛⬛⬛⬛⬛ (95%)
-⭐ **حل المشكلات:** ⬛⬛⬛⬜⬜ (60%)
-
-# 3. إضافة شهادات:
-![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Professional-FF9900)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4)
