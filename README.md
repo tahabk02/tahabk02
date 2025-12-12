@@ -13,6 +13,121 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<!-- 3D Coding Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+</p>
+
+<!-- Interactive Tech Game Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35px" height="35px">
+  Interactive Tech Skills Visualizer
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,rust,java,cpp,cs,php,ruby,swift,kotlin,dart,lua&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,angular,svelte,tailwind,bootstrap,redux,graphql,express,nestjs,django,flask,fastapi,spring&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,kubernetes,aws,azure,gcp,terraform,jenkins,git,github&perline=7" />
+</p>
+
+<!-- 3D Contribution Graph Alternative -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahabk02&bg_color=0d1117&color=a277ff&line=61dafb&point=ffffff&area=true&hide_border=true&custom_title=3D%20Contribution%20Visualization" alt="3D Contribution Graph" />
+</p>
+
+<!-- Animated Coding Stats -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Tech Stack Game/Animation -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px" height="35px">
+  Technology Mastery Levels
+</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /><br>
+      <b>JavaScript</b><br>
+      <img src="https://progress-bar.dev/95/?title=Master&width=120&color=f7df1e" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" /><br>
+      <b>TypeScript</b><br>
+      <img src="https://progress-bar.dev/90/?title=Expert&width=120&color=3178c6" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" /><br>
+      <b>Python</b><br>
+      <img src="https://progress-bar.dev/88/?title=Expert&width=120&color=3776ab" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /><br>
+      <b>React</b><br>
+      <img src="https://progress-bar.dev/92/?title=Master&width=120&color=61dafb" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" /><br>
+      <b>Docker</b><br>
+      <img src="https://progress-bar.dev/85/?title=Expert&width=120&color=2496ed" />
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" /><br>
+      <b>Kubernetes</b><br>
+      <img src="https://progress-bar.dev/80/?title=Advanced&width=120&color=326ce5" />
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" /><br>
+      <b>AWS</b><br>
+      <img src="https://progress-bar.dev/87/?title=Expert&width=120&color=ff9900" />
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /><br>
+      <b>GitHub</b><br>
+      <img src="https://progress-bar.dev/95/?title=Master&width=120&color=181717" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx" /><br>
+      <b>Nginx</b><br>
+      <img src="https://progress-bar.dev/82/?title=Advanced&width=120&color=009639" />
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" /><br>
+      <b>MySQL</b><br>
+      <img src="https://progress-bar.dev/86/?title=Expert&width=120&color=4479a1" />
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" /><br>
+      <b>GraphQL</b><br>
+      <img src="https://progress-bar.dev/78/?title=Advanced&width=120&color=e10098" />
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" /><br>
+      <b>REST API</b><br>
+      <img src="https://progress-bar.dev/93/?title=Master&width=120&color=02569b" />
+    </td>
+  </tr>
+</table>
+
+<!-- Animated Separator with 3D Effect -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
+
 <!-- Blog Posts -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" height="35px">
@@ -70,44 +185,57 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="250"/>
 </p>
 
+<!-- Animated Connection Icons -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+</p>
+
 <h3 align="center">🌟 What I Can Help You With</h3>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/d08fcd8c-3ef7-4fc0-84e1-4d65b9e8c47e" width="100" height="100"><br>
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
       <b>Web Development</b><br>
       <sub>Full-stack solutions</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/d08fcd8c-3ef7-4fc0-84e1-4d65b9e8c47e" width="100" height="100"><br>
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
       <b>Cloud Architecture</b><br>
       <sub>Scalable infrastructure</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/d08fcd8c-3ef7-4fc0-84e1-4d65b9e8c47e" width="100" height="100"><br>
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
       <b>DevOps</b><br>
       <sub>CI/CD & Automation</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d08fcd8c-3ef7-4fc0-84e1-4d65b9e8c47e" width="100" height="100"><br>
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
       <b>Code Reviews</b><br>
       <sub>Best practices</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d08fcd8c-3ef7-4fc0-84e1-4d65b9e8c47e" width="100" height="100"><br>
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
       <b>Mentoring</b><br>
       <sub>Career guidance</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d08fcd8c-3ef7-4fc0-84e1-4d65b9e8c47e" width="100" height="100"><br>
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
       <b>Tech Consulting</b><br>
       <sub>Architecture decisions</sub>
     </td>
   </tr>
 </table>
+
+<!-- Animated Email/Contact -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122003-7b8a634e-83dc-4d3c-8587-562e1a5e60cb.png" width="400">
+</p>
 
 <h3 align="center">📧 Get In Touch</h3>
 
@@ -150,11 +278,71 @@
 <!-- Snake Animation -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px" height="35px">
-  Contribution Snake
+  Contribution Snake Game
 </h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tahabk02/tahabk02/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- 3D Contribution Visualizer -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</p>
+
+<!-- Animated Tech Icons Floating -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50">
+</p>
+
+<!-- Coding Activity Visualization -->
+<details>
+<summary><b>🎮 Interactive Coding Activity Game</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tahabk02&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-4898-abb7-0b0a91d22be2.gif" width="100"><br>
+      <b>🔥 Streak Master</b><br>
+      <sub>Coding every day</sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-4898-abb7-0b0a91d22be2.gif" width="100"><br>
+      <b>💻 Code Ninja</b><br>
+      <sub>1000+ commits</sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-4898-abb7-0b0a91d22be2.gif" width="100"><br>
+      <b>🚀 Fast Learner</b><br>
+      <sub>New tech weekly</sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-4898-abb7-0b0a91d22be2.gif" width="100"><br>
+      <b>🌟 Open Source</b><br>
+      <sub>Community hero</sub>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<!-- Animated Code Terminal -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -162,23 +350,52 @@
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
+<!-- Animated Footer Icons -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+</p>
+
 <div align="center">
   
-  <h3>🌟 "The best way to predict the future is to invent it" 🌟</h3>
+  <h3>
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30">
+    "The best way to predict the future is to invent it"
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30">
+  </h3>
   
+  <!-- Animated Typing Footer -->
   <p>
-    <b>Made with ❤️ and lots of ☕ by Taha Boulhak</b><br/>
-    <sub>Full Stack Developer | Cloud Architect | Tech Educator</sub><br/>
-    <sub>Casablanca, Morocco 🇲🇦 | December 2025</sub>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95+by+Taha+Boulhak;Full+Stack+Developer+%7C+Cloud+Architect+%7C+Tech+Educator;Casablanca%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6+%7C+December+2025;Always+Learning+%7C+Always+Building+%7C+Always+Growing" alt="Footer Typing" />
   </p>
+  
+  <!-- 3D Animated Footer -->
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
   
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
   
+  <!-- Interactive Footer Badges -->
   <p>
-    <img src="https://img.shields.io/badge/⭐_Star_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
-    <img src="https://img.shields.io/badge/🤝_Let's_Collaborate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Collaborate"/>
-    <img src="https://img.shields.io/badge/💬_Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+    <a href="https://github.com/tahabk02?tab=repositories">
+      <img src="https://img.shields.io/badge/⭐_Star_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
+    </a>
+    <a href="https://linkedin.com/in/tahabk02">
+      <img src="https://img.shields.io/badge/🤝_Let's_Collaborate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Collaborate"/>
+    </a>
+    <a href="mailto:tahaboulhak202@gmail.com">
+      <img src="https://img.shields.io/badge/💬_Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+    </a>
   </p>
+  
+  <!-- Animated Hearts -->
+  <p>
+    <img src="https://user-images.githubusercontent.com/74038190/216122003-7b8a634e-83dc-4d3c-8587-562e1a5e60cb.png" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/216122003-7b8a634e-83dc-4d3c-8587-562e1a5e60cb.png" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/216122003-7b8a634e-83dc-4d3c-8587-562e1a5e60cb.png" width="100">
+  </p>
+  
+  <sub>✨ Profile views: <b>Infinite</b> | Commits this year: <b>Growing</b> | Lines of code: <b>Countless</b> ✨</sub>
   
 </div>githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -228,7 +445,7 @@
   About Me
 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 ```typescript
 const TahaBoulhak = {
